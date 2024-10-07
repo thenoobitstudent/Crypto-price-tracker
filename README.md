@@ -15,3 +15,6 @@ Tkinter: Python's standard GUI library for building the interface.
 Pillow: For image handling within the Tkinter app.
 Requests: To handle API requests for fetching Bitcoin prices and news.
 
+![image](https://github.com/user-attachments/assets/3a934383-dafe-4dc2-a446-3442ed09209b)
+
+
